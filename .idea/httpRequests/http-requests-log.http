@@ -2,6 +2,10 @@ GET http://showDetails
 
 ###
 
+GET http://showDetails
+
+###
+
 GET http://localhost:8080/coffees
 
 <> 2023-05-01T223543.404.html
