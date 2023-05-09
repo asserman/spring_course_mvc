@@ -9,12 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a070c619-62ff-42dc-867f-c193d31bd40a" name="Changes" comment="master">
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+    <list default="true" id="a070c619-62ff-42dc-867f-c193d31bd40a" name="Changes" comment="master Jackarta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/kkm21/spring/mvc/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kkm21/spring/mvc/MyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="c38ebdd5-857b-4511-ba85-2ee69637f2a1" />
+        <option name="BASE_DIRECTORY_NAME" value="78633532-a8be-4872-b1ef-f68c6471f845" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -268,6 +266,9 @@
       <workItem from="1683479625632" duration="3473000" />
       <workItem from="1683489612911" duration="223000" />
       <workItem from="1683492265848" duration="716000" />
+      <workItem from="1683650157613" duration="208000" />
+      <workItem from="1683652362393" duration="630000" />
+      <workItem from="1683653794060" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1683414251482</created>
@@ -302,6 +303,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master" />
-    <option name="LAST_COMMIT_MESSAGE" value="master" />
+    <MESSAGE value="master Jackarta" />
+    <option name="LAST_COMMIT_MESSAGE" value="master Jackarta" />
   </component>
 </project>
