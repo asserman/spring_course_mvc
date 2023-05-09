@@ -9,9 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a070c619-62ff-42dc-867f-c193d31bd40a" name="Changes" comment="master Jackarta">
+    <list default="true" id="a070c619-62ff-42dc-867f-c193d31bd40a" name="Changes" comment="master requestparam">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kkm21/spring/mvc/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/kkm21/spring/mvc/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kkm21/spring/mvc/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/ask-emp-details-view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/ask-emp-details-view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/show-emp-details-view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/show-emp-details-view.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,7 +52,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2PCgztVdH8td6S8L0WpV7msPGA5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,7 +86,10 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat_10.1.8">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat_10.1.8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat_10.1.8" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -245,6 +254,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests | #1" />
+      <item itemvalue="Tomcat Server.Tomcat_10.1.8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBeansView">
@@ -267,7 +285,7 @@
       <workItem from="1683492265848" duration="716000" />
       <workItem from="1683650157613" duration="208000" />
       <workItem from="1683652362393" duration="630000" />
-      <workItem from="1683653794060" duration="1360000" />
+      <workItem from="1683653794060" duration="4022000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1683414251482</created>
@@ -290,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683654193273</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="master requestparam">
+      <created>1683656164575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683656164575</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +335,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master" />
     <MESSAGE value="master Jackarta" />
-    <option name="LAST_COMMIT_MESSAGE" value="master Jackarta" />
+    <MESSAGE value="master requestparam" />
+    <option name="LAST_COMMIT_MESSAGE" value="master requestparam" />
   </component>
 </project>
