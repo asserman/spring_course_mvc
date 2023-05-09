@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a070c619-62ff-42dc-867f-c193d31bd40a" name="Changes" comment="master Jackarta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/kkm21/spring/mvc/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kkm21/spring/mvc/MyController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +267,7 @@
       <workItem from="1683492265848" duration="716000" />
       <workItem from="1683650157613" duration="208000" />
       <workItem from="1683652362393" duration="630000" />
-      <workItem from="1683653794060" duration="342000" />
+      <workItem from="1683653794060" duration="1360000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1683414251482</created>
@@ -284,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683414442640</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="master Jackarta">
+      <created>1683654193273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683654193273</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

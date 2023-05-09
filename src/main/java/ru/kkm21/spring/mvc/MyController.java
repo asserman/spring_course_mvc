@@ -5,6 +5,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import jakarta.servlet.http.HttpServletRequest;
+import org.springframework.web.bind.annotation.RequestParam;
 
 
 @Controller
@@ -24,14 +25,22 @@ public class MyController {
 //        return "show-emp-details-view";
 //    }
 
+//    @RequestMapping("/showDetails")
+//    public String showEmpDetails(HttpServletRequest request, Model model){
+//
+//        String empName = request.getParameter("employeeName");
+//        empName = "Mr. " +empName;
+//        model.addAttribute("nameAttribute", empName);
+//        return "show-emp-details-view";
+//
+//    }
     @RequestMapping("/showDetails")
-    public String showEmpDetails(HttpServletRequest request, Model model){
+    public String showEmpDetails(@RequestParam("employeeName") String empName, Model model) {
 
-        String empName = request.getParameter("employeeName");
-        empName = "Mr. " +empName;
+        empName = "MrS. " +empName +" !";
         model.addAttribute("nameAttribute", empName);
         return "show-emp-details-view";
-    }
 
+    }
 
 }
