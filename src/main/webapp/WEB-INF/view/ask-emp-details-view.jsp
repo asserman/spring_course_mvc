@@ -8,12 +8,9 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<head>
-    <title>Title</title>
-</head>
 <body>
 <h2>
-  Dear Employee, Please enter your details
+    Dear Employee, Please enter your details
 </h2>
 
 <br>
@@ -26,18 +23,26 @@
 <%--</form>--%>
 
 <form:form action="showDetails" modelAttribute="employee">
-    Name <form:input path="name"/>
+    Имя <form:input path="name"/>
     <br>
     <br>
-    Surname <form:input path="surame"/>
+    Фамилия <form:input path="surame"/>
     <br>
     <br>
-    Salary <form:input path="salary"/>
+    Ожидаемая зарплата <form:input path="salary"/>
     <br>
+    Отдел в котором вы хотите работаь?
+    <br>
+    <form:select path="department" itemLabel="Sale" itemValue="Отдел продаж"/>
+    <form:select path="department" itemLabel="IT" itemValue="Информационные технологии"/>
+    <form:select path="department" itemLabel="HR" itemValue="Отдел кадров"/>
     <br>
     <input type="submit" value="OK">
 
 </form:form>
 
 </body>
+<head>
+    <title>Title</title>
+</head>
 </html>

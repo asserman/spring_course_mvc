@@ -25,6 +25,7 @@ Your surname: ${emp.surame}
 <br>
 Your salary: ${emp.salary}
 <br>
+Ваш Отдел: ${emp.department}
 <br>
 
 
